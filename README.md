@@ -1,0 +1,2 @@
+# Photoelectric-Effect--Graph-and-Work-Function--PYTHON-CODE
+Photoelectric Effect- Vlab Simulation                                                          The laws of the Photoelectric Effect have been verified for various metals like Copper, Zinc and Platinum, Using Amritha V-lab Simulation. The experimental curves could be reproduced for these metals for various intensities and frequencies of the incident radiation.  The curves are plotted using Visualization with Python module namely- Matplotlib . The Python program to Find Work Function is also included
